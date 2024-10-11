@@ -1,4 +1,4 @@
-# Django full guide from beginning
+# Django guide for creating first project
 ## creating virtual environment 
 ``` 
     py -m venv myvenv    
